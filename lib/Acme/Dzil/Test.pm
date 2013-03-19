@@ -13,7 +13,7 @@ __END__
 
 =head1 NAME
 
-Acme::Dzil::Test -
+Acme::Dzil::Test - Foo Bar
 
 =head1 SYNOPSIS
 
