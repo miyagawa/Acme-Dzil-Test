@@ -1,0 +1,9 @@
+[x] read cpanfile for prereqs
+[x] github homepage, bugtracker, repos
+[ ] mint: README symlink for .pod for git or markdown
+[x] gatherdir git
+[x] xt/pod.t
+[ ] git push upon releases
+
+https://github.com/miyagawa/cpanminus/issues/221
+https://github.com/miyagawa/carton/issues/71
