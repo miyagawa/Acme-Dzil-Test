@@ -13,7 +13,7 @@ __END__
 
 Acme::Dzil::Test - Foo Bar
 
-=ahead1 SYNOPSIS
+=head1 SYNOPSIS
 
   use Acme::Dzil::Test;
 
