@@ -1,0 +1,52 @@
+{
+   "abstract" : "Foo Bar",
+   "author" : [
+      "Tatsuhiko Miyagawa <miyagawa@bulknews.net>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.300031, CPAN::Meta::Converter version 2.120921",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Acme-Dzil-Test",
+   "prereqs" : {
+      "configure" : {
+         "requires" : {
+            "Module::Build::Tiny" : "0.013"
+         }
+      },
+      "develop" : {
+         "requires" : {
+            "Test::Pod" : "1.41"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Try::Tiny" : "0.11"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "Test::More" : "0.90"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/miyagawa/Acme-Dzil-Test/issues"
+      },
+      "homepage" : "https://github.com/miyagawa/Acme-Dzil-Test",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/miyagawa/Acme-Dzil-Test.git",
+         "web" : "https://github.com/miyagawa/Acme-Dzil-Test"
+      }
+   },
+   "version" : "0.01"
+}
+
