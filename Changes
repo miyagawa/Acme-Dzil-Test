@@ -1,4 +1,7 @@
 Revision history for Perl extension Acme::Dzil::Test
 
+0.02  Tue Mar 19 16:42:05 PDT 2013
+        - foo bar
+
 0.01  Tue Mar 19 10:45:52 2013
         - original version
