@@ -9,13 +9,11 @@ __END__
 
 =encoding utf-8
 
-=for stopwords
-
 =head1 NAME
 
 Acme::Dzil::Test - Foo Bar
 
-=head1 SYNOPSIS
+=ahead1 SYNOPSIS
 
   use Acme::Dzil::Test;
 
