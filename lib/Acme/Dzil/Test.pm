@@ -2,7 +2,7 @@ package Acme::Dzil::Test;
 
 use strict;
 use 5.008_001;
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 1;
 __END__
