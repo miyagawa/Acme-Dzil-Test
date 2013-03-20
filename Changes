@@ -2,6 +2,9 @@ Revision history for Perl extension Acme::Dzil::Test
 
 {{$NEXT}}
 
+0.04      2013-03-19 18:04:37 America/Los_Angeles
+        - Foooo
+
 0.03      2013-03-19 18:02:51 America/Los_Angeles
         - POD stuff
 
